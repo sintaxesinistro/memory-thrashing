@@ -1,4 +1,4 @@
 memory-thrashing-simulation
 ===========================
 
-Simulating Thrashing with C++
+Simulating thrashing with C++
