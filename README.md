@@ -1,4 +1,3 @@
-memory-thrashing-simulation
-===========================
+== Thrash your memory
 
-Simulating thrashing with C++
+RAM in the morning, RAM in the evening, RAM at supper time
